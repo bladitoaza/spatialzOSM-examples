@@ -26,7 +26,6 @@ dependencies:
 
   # install OSMnx beta via pip
   - pip
-  - git
   - pip:
       - osmnx==2.0.0b0
-      - git+https://github.com/bladitoaza/spatialzosm.git
+  #    - git+https://github.com/bladitoaza/spatialzosm.git
